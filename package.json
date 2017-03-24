@@ -1,7 +1,7 @@
 {
     "name": "angular2 starter",
     "version": "1.0.0",
-    "description": "Starter project based on angular2 and webpack2",
+    "description": "Starter project based on angular2 and webpack2qsdqsd",
     "scripts": {
         "serve": "webpack-dev-server --inline --progress",
         "test": "karma start",

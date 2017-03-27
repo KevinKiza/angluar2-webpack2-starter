@@ -1,5 +1,5 @@
 {
-    "name": "angular2 starter",
+    "name": "angular2-webpack2-starter",
     "version": "1.0.0",
     "description": "Starter project based on angular2 and webpack2",
     "scripts": {
